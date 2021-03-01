@@ -1,0 +1,11 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.timer {
+  text-align: center;
+  perspective: 600px;
+  margin: 0 auto;
+}
