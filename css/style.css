@@ -6,8 +6,6 @@ body {
   font-family: sans-serif;
   display: flex;
   justify-content: center;
-  align-items: stretch;
-  font-weight: bold;
 }
 
 .field {
@@ -26,6 +24,7 @@ body {
 .value {
   font-size: 48px;
   color: #777777;
+  font-weight: bold;
 }
 
 .field:hover {
