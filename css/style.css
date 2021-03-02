@@ -3,13 +3,13 @@ body {
 }
 
 .timer {
-  font-family: sans-serif;
   display: flex;
   justify-content: center;
+  font-family: sans-serif;
 }
 
 .field {
-  width: 80px;
+  width: 100px;
   margin-right: 45px;
   text-align: center;
 }
