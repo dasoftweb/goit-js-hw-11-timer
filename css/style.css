@@ -12,15 +12,15 @@ body {
   width: 100px;
   margin-right: 45px;
   text-align: center;
-  background-color: #da0000;
+  background-color: #868686;
   border-radius: 10px;
-  box-shadow: 5px 5px #202020;
+  box-shadow: 5px 5px #5a5a5a;
 }
 
 .label {
   display: block;
   margin-bottom: 15px;
-  color: #202020;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
